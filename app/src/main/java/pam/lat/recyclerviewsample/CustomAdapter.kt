@@ -1,4 +1,4 @@
-package lat.pam.recyclerviewsample
+package pam.lat.recyclerviewsample
 
 import android.view.LayoutInflater
 import android.view.View
@@ -6,7 +6,7 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import lat.pam.samplerecyclerview.ItemsViewModel
+import pam.lat.samplerecyclerview.ItemsViewModel
 import pam.lat.recyclerviewsample.R
 
 class CustomAdapter(private val mList:List<ItemsViewModel>): RecyclerView.Adapter<CustomAdapter.ViewHolder>() {

@@ -1,11 +1,11 @@
-package lat.pam.recyclerviewsample
+package pam.lat.recyclerviewsample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import lat.pam.samplerecyclerview.ItemsViewModel
+import pam.lat.samplerecyclerview.ItemsViewModel
 import pam.lat.recyclerviewsample.R
 
 

@@ -1,2 +1,2 @@
-package lat.pam.samplerecyclerview
+package pam.lat.samplerecyclerview
 data class ItemsViewModel(val text: String) {}
